@@ -76,7 +76,7 @@ $conn->close();
 <html>
 <head>
   <title>Изменить студента</title>
-  <link rel="stylesheet" href="style.css">
+  
 </head>
 <body>
     <div class="header"><nav>
